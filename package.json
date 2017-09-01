@@ -1,10 +1,10 @@
 {
-  "name": "@stencil/starter",
-  "private": true,
+  "name": "personal-webiste-v2",
+  "private": false,
   "version": "0.0.1",
-  "description": "Stencil Starter App",
+  "description": "personal-webiste-v2",
   "files": [
-    "dist"
+    "www"
   ],
   "scripts": {
     "build": "stencil build",
@@ -22,12 +22,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ionic-team/stencil-starter.git"
+    "url": "git+https://github.com/pdsullivan/personal-webiste-v2.git"
   },
-  "author": "Ionic Team",
+  "author": "Patrick Sullivan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ionic-team/stencil"
+    "url": "https://github.com/pdsullivan/personal-webiste-v2"
   },
-  "homepage": "https://github.com/ionic-team/stencil"
+  "homepage": "https://github.com/pdsullivan/personal-webiste-v2"
 }
